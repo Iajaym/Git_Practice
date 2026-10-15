@@ -1,1 +1,3 @@
 this is my first file in one.txt folder name three.
+
+this is content for normal people stay cool and away.
